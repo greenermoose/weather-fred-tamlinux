@@ -1,5 +1,9 @@
 # fred.weather (`weather-fred-tamlinux`)
 
+> [!IMPORTANT]
+> **Repository Frozen:** This repository is frozen and retained for historical reference as the Omarchy 1.x release suite. Active Tamlinux development for `fred.weather` has moved to the unified [Tamlinux](https://github.com/greenermoose/tamlinux) repository under [`desktop/plugins/fred.weather/`](https://github.com/greenermoose/tamlinux/tree/main/desktop/plugins/fred.weather).
+
+
 A security-hardened, multi-monitor weather bar widget and popup panel for [Tamlinux](https://github.com/greenermoose/tamlinux) (Fred's personal Linux workstation environment), replacing the stock `omarchy.weather` widget. Provides current conditions, a scrollable 48-hour timeline with temperature curve and solar markers, and an extended 10-day forecast.
 
 ![fred.weather Screenshot](assets/screenshot.png)
